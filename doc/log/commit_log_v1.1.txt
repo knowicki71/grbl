@@ -3,18 +3,15 @@ Date: 2019-08-30
 Author: Sonny Jeon
 Subject: Fixed typo bug effecting dual-axis build with Y.
 
-
 ----------------
 Date: 2019-08-25
 Author: Sonny Jeon
 Subject: Update grbl.h
 
-
 ----------------
 Date: 2019-08-25
 Author: Sonny Jeon
 Subject: Update system.c
-
 
 ----------------
 Date: 2019-07-30
